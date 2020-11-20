@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorPrimary"></solid>
+    <corners android:radius="@dimen/circle_progressbar_radius"></corners>
+    <padding android:bottom="@dimen/circle_progressbar_padding"
+        android:top="@dimen/circle_progressbar_padding"
+        android:left="@dimen/circle_progressbar_padding"
+        android:right="@dimen/circle_progressbar_padding"></padding>
+</shape>

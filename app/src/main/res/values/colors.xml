@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- CLIENT COLOR SCHEME -->
+    <color name="colorPrimary">#FFFFFF</color>
+    <color name="colorPrimaryDark">#FFBCBCBC</color>
+    <color name="colorAccent">#4790CD</color>
+
+    <!-- EXTRAS -->
+    <color name="gray">#F8F8F8</color>
+    <color name="notif_color">#D31E1E</color>
+
+    <!-- ADMIN COLOR SCHEME -->
+    <color name="colorPrimaryAdmin">#9A9A9A</color>
+    <color name="colorPrimaryDarkAdmin">#F3F3F3</color>
+    <color name="colorAccentAdmin">#222222</color>
+
+</resources>
